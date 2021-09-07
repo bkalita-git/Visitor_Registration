@@ -1,2 +1,4 @@
-# VISITOR REGISTRATION SYSTEM
-![](md_src/VisitorDemo.png)
+<p align="center">
+  <img src="md_src/VisitorDemo.png">
+</p>
+<br>
